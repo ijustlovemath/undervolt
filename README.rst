@@ -72,7 +72,7 @@ Generated the command to run to recreate your Throttlestop settings::
     $ undervolt --throttlestop ThrottleStop.ini --tsindex 3
     undervolt --core -100.5859375
     $ undervolt --throttlestop ThrottleStop.ini
-    undervolt --core -125.0 --gpu -125.0 --cache -125.0
+    undervolt --core -125 --gpu -125 --cache -125
 
 Usage
 -----
@@ -254,6 +254,7 @@ Lenovo Thinkpad x250               i7-5600U  Yes
 Lenovo X1 Gen 5                    i7-7500U  Yes
 Lenovo X1 Yoga Gen 2               i7-7600U  Yes
 Lenovo Yoga 920                    i7-8550U  Yes
+Lenovo P53                         i7-9850H  Yes
 MSI GE60 2QD Apache                i7-4720HQ Yes
 MSI GP73 Leopard 8RF               i7-8750H  Yes
 MacBook Air Late 2015              i5-5250U  Yes
